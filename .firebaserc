@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shoppingsite-7ae97": {
+      "hosting": {
+        "shoppingsite": [
+          "shoppingsite-7ae97"
+        ]
+      }
+    }
+  }
+}
